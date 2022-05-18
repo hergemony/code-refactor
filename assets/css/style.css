@@ -1,12 +1,18 @@
+/* Comments will be added to indicate what each part of the CSS file is doing..*/
+/* determine what type of box will be used; content vs border box. Usually content box by default but developers usually set border-box.
+border-box is used so that the element doesn’t go outside the view-port.*/
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* set the colour of the body's background, shouldn't be too bright and easy on the eye as it takes up most space*/
 body {
     background-color: #d9dcd6;
 }
+/* style for the header*/
 /* Replaced div tags with header tags on html and css */
 header {
     padding: 20px;
@@ -188,6 +194,9 @@ main {
     font-size: 36px;
 } Grouped on line 176*/
 /* removed the . and div tag on the html file */
+
+
+/* styling for the footer, set size of font to usually smaller with signature/logo/copyright*/
 footer {
     padding: 30px;
     clear: both;
