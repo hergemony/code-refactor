@@ -10,7 +10,7 @@ This file will contain my version of HORISEON mock up entitled HERGEMONY.
 
  
 ## Screenshot
-![alt text]()
+![alt text](https://github.com/hergemony/code-refactor/blob/main/assets/css/images/Screen%20Shot%202022-05-18%20at%209.27.49%20pm.png?raw=true)
 
 
 ## References
